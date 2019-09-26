@@ -19,7 +19,7 @@ describe('renders component in the page',()=>{
   })
   it('renders the main div',()=>{
     //console.log("renders the main div");
-    const maindiv = wrapper.find('#main');
+    const maindiv = wrapper.find('#App');
     expect(maindiv.length).toBe(1);
   });
 })
