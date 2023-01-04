@@ -6,7 +6,7 @@
     "@babel/plugin-proposal-export-default-from": "^7.5.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-native-responsive-linechart": "^1.2.0",
+    "react-native-responsive-linechart": "^1.5.3",
     "react-scripts": "3.1.1",
     "recharts": "^1.7.1"
   },
